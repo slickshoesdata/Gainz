@@ -1,0 +1,21 @@
+﻿Two possible indices:
+* Wilks (used now)
+   * Corrects for gender and weight classes
+* Allometric Scaling
+   * Controls for bodyweight considering amount lifted. 
+
+
+Wilks isn’t always used for scoring, depending on weight classes.
+
+
+Null:        Wilks is the best (least biased)
+Alt:        WIlks is not the best
+What indicates biased? 
+        If unbiased, we should an equal spread of genders and weight-classes.
+        
+To-Do:
+1. Representation of weight classes in top (1, 5, 10)% of scores
+2. Distribution of scores, (wilks, allo, Z)
+3. Dist of weight lifted
+4. Representation of genders (bar plot) in top (1, 5, 10)%
+5.
